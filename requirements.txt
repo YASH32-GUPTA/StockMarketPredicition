@@ -3,11 +3,9 @@ pandas
 matplotlib
 datetime
 yfinance
-sklearn.preprocessing
-keras.layers 
-keras.models
-sklearn.metrics
+sklearn
+keras
 pandas_datareader
 streamlit
-plotly.express
+plotly
 requests
