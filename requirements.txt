@@ -9,3 +9,4 @@ pandas_datareader
 streamlit
 plotly
 requests
+tensorflow
