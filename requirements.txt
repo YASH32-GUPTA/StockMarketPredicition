@@ -1,0 +1,13 @@
+numpy 
+pandas
+matplotlib.pyplot
+datetime
+yfinance
+sklearn.preprocessing
+keras.layers 
+keras.models
+sklearn.metrics
+pandas_datareader
+streamlit
+plotly.express
+requests
